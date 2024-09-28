@@ -1,6 +1,6 @@
 # Welcome to Numblio! 🎉📊
 
-**Numblio** is an innovative, gamified learning platform developed by **NCLE™ Solutions**. Our mission is to make learning math fun and interactive for users of all ages, whether you’re a young student or a lifelong learner. With **Numblio**, users can improve their arithmetic skills through challenges, levels, and rewards, all while having a great time! 🚀
+**Numblio** is an innovative, gamified learning platform developed by **@nclesolutions**. Our mission is to make learning math fun and interactive for users of all ages, whether you’re a young student or a lifelong learner. With **Numblio**, users can improve their arithmetic skills through challenges, levels, and rewards, all while having a great time! 🚀
 
 ## Our Vision 🌍
 At Numblio, we believe that **learning should be enjoyable and motivating**. Math is an essential life skill, and we’ve designed Numblio to:
