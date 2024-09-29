@@ -17,7 +17,6 @@ Here’s a brief look at what you’ll find in our organization:
 
 - **numblio-documentation**: Comprehensive documentation for Numblio, including setup guides, API documentation, and contribution guidelines.
 - **numblio-localization**: Manages localization and internationalization efforts to support multiple languages across the platform.
-- **numblio-experiments**: A sandbox for testing new features and ideas that may be integrated into Numblio.
 - **numblio-feedback**: A dedicated repository for collecting and managing user feedback, feature requests, and bug reports.
 
 Numblio is a **closed-source** project, but we’re always open to collaboration on documentation, localization, and user experience.
